@@ -1,0 +1,9 @@
+Number of records = 10
+Minimum entry time = 00 : 17
+Maximum entry time = 00 : 31
+Average entry time = 00 : 23
+Minimum inter-record time = 00 : 01
+Maximum inter-record time = 00 : 02
+Average inter-record time = 00 : 01
+Total time = 04 : 07
+Backspace count = 41
